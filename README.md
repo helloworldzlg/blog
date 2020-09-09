@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 读书笔记
 
-You can use the [editor on GitHub](https://github.com/helloworldzlg/helloworldzlg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**阅读、思考、沉淀，成为更好的自己**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Content：
 
-### Markdown
+### 1. 计算机体系架构
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2. 程序员的自我修养（编译、链接、逆向）
 
-```markdown
-Syntax highlighted code block
+### 3. 计算机网络
 
-# Header 1
-## Header 2
-### Header 3
+### 4. 数据结构与算法
 
-- Bulleted
-- List
+### 5. 编程语言
 
-1. Numbered
-2. List
+​	[C++ Primer](https://github.com/helloworldzlg/cpp_programming)
 
-**Bold** and _Italic_ and `Code` text
+### 6. 嵌入式Linux开发
 
-[Link](url) and ![Image](src)
-```
+### 7. 常用的中间件
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helloworldzlg/helloworldzlg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### 开源项目
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
