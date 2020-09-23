@@ -15,6 +15,7 @@
 ### 5. 编程语言
 
 &nbsp;&nbsp;&nbsp;&nbsp;[C++ Primer](https://gitee.com/null_752_5567/cpp_primer.git)
+&nbsp;&nbsp;&nbsp;&nbsp;[C++ 标准程序库 v2](https://gitee.com/null_752_5567/cpp_standard_library_v2.git)
 
 ### 6. 嵌入式Linux开发
 
