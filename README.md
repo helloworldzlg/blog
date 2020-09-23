@@ -14,7 +14,7 @@
 
 ### 5. 编程语言
 
-​	[C++ Primer](https://github.com/helloworldzlg/cpp_programming)
+&nbsp;&nbsp;&nbsp;&nbsp;[C++ Primer](https://gitee.com/null_752_5567/cpp_primer.git)
 
 ### 6. 嵌入式Linux开发
 
