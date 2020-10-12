@@ -20,10 +20,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[TCP/IP详解]()
 
+## 04. 操作系统
 
-## 04. 数据结构与算法
+## 05. 数据结构与算法
 
-## 05. 编程语言
+## 06. 编程语言
 
 &nbsp;&nbsp;&nbsp;&nbsp;[C++ Primer](https://github.com/helloworldzlg/read_cpp_primer/blob/main/README.md)
 
@@ -39,9 +40,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[STL源码剖析](https://github.com/helloworldzlg/learning_cpp_stl_code/blob/main/README.md)
 
-## 06. 嵌入式Linux
+## 07. 嵌入式Linux
 
-## 07. 数据库
+## 08. 数据库
 
 &nbsp;&nbsp;&nbsp;&nbsp;[SQL必知必会](https://gitee.com/null_752_5567/learning_sql/blob/master/README.md)
 
@@ -51,7 +52,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Redis设计与实现](https://gitee.com/null_752_5567/learning_sql/blob/master/README.md)
 
-## 08. 设计模式
+## 09. 设计模式
 
 &nbsp;&nbsp;&nbsp;&nbsp;[大话设计模式](https://github.com/helloworldzlg/learning_design_mode/blob/main/README.md)
 
